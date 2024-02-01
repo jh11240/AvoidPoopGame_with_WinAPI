@@ -1,0 +1,21 @@
+﻿  GameNode.cpp
+  KeyManager.cpp
+  MainGame.cpp
+C:\Users\jh112\source\repos\WindowsProject1\WindowsProject1\MainGame.cpp(49,24): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jh112\source\repos\WindowsProject1\WindowsProject1\MainGame.cpp(50,25): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jh112\source\repos\WindowsProject1\WindowsProject1\MainGame.cpp(51,23): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jh112\source\repos\WindowsProject1\WindowsProject1\MainGame.cpp(52,26): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jh112\source\repos\WindowsProject1\WindowsProject1\MainGame.cpp(91,52): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jh112\source\repos\WindowsProject1\WindowsProject1\MainGame.cpp(95,52): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Objects.cpp
+C:\Users\jh112\source\repos\WindowsProject1\WindowsProject1\Objects.cpp(22,24): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jh112\source\repos\WindowsProject1\WindowsProject1\Objects.cpp(27,27): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jh112\source\repos\WindowsProject1\WindowsProject1\Objects.cpp(33,38): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jh112\source\repos\WindowsProject1\WindowsProject1\Objects.cpp(37,19): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jh112\source\repos\WindowsProject1\WindowsProject1\Objects.cpp(47,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Player.cpp
+  TimeManager.cpp
+C:\Users\jh112\source\repos\WindowsProject1\WindowsProject1\TimeManager.cpp(41,52): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  WindowsProject1.cpp
+  코드를 생성하고 있습니다...
+  WindowsProject1.vcxproj -> C:\Users\jh112\source\repos\WindowsProject1\x64\Debug\WindowsProject1.exe
