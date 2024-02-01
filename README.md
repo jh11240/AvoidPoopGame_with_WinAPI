@@ -10,7 +10,7 @@ framework헤더파일에 필요한 클래스들과 전역변수들을 몰아서 
 
 WindowsProject1클래스에서 wWinMain을 구현했습니다. 
 
-Init(), Update(), Render()를 순수 가상 함수로 GameNode클래스에 구현 후, 
+GameNode클래스에 Init(), Update(), Render()를 순수 가상 함수로 구현 후, 
 init, render, update함수를 사용하는 모든 클래스에서 상속받게 해서 구현하게 했습니다. 
 
 GameNode를 상속받는 클래스인 mainGame클래스에서 다른 모든 클래스들의 init, update, render함수를 실행시키도록 구현해서, 
