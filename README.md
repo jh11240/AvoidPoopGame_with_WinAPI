@@ -4,6 +4,7 @@ WinAPI를 이용해서 간단하게 똥피하기 게임을 구현해봤습니다
 
 # 게임설명
 ![image](https://github.com/jh11240/AvoidPoopGame_with_WinAPI/assets/73728655/f79be63a-f20f-45d7-b8e6-40a2c285effd)
+
 framework헤더파일에 필요한 클래스들과 전역변수들을 몰아서 선언했습니다.
 
 WindowsProject1클래스에서 wWinMain을 구현했습니다. 
