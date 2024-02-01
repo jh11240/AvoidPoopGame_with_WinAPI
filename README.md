@@ -1,5 +1,6 @@
 # AvoidPoopGame_with_WinAPI
 WinAPI를 이용해서 간단하게 똥피하기 게임을 구현해봤습니다. 
+
 똥과 플레이어는 RECT로 구현해 Rectangle함수를 통해 렌더링됩니다.
 
 # 게임설명
